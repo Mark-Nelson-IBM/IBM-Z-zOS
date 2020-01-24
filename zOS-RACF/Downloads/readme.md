@@ -26,6 +26,8 @@ b
 
 14. [RACFICE2](http://ibm.biz/racf-racfice2): RACFICE examples, beyond those which are shipped in 'SYS1.SAMPLIB(IRRICE)'
 
+15. [RacfUnixCommands](https://ibm.biz/RacfUnixCommands): A set of REXX execs that expose a RACF command-like syntax to manage and display security information of z/OS UNIX files and directories.
+
 15. [RACKILL](http://ibm.biz/racf-rackill): A utility deletes profiles from the RACF database that otherwise might not be deletable.  
 
 16. [RACSEQ](http://ibm.biz/racf-racseq): A TSO command which invokes the extract function of R_admin (IRRSEQ00) and displays every profile field to the display using PUTLINE.    
