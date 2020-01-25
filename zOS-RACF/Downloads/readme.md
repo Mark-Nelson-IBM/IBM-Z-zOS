@@ -24,9 +24,9 @@ b
 
 12. [PWDPHRONLY](http://ibm.biz/racf-pwdphronly): RACF sample ICHRIX02 exit which forces users to use password phrases.
 
-14. [RACFICE2](http://ibm.biz/racf-racfice2): RACFICE examples, beyond those which are shipped in 'SYS1.SAMPLIB(IRRICE)'
+13. [RACFICE2](http://ibm.biz/racf-racfice2): RACFICE examples, beyond those which are shipped in 'SYS1.SAMPLIB(IRRICE)'
 
-15. [RacfUnixCommands](https://ibm.biz/RacfUnixCommands): A set of REXX execs that expose a RACF command-like syntax to manage and display security information of z/OS UNIX files and directories.
+14. [RacfUnixCommands](https://ibm.biz/RacfUnixCommands): A set of REXX execs that expose a RACF command-like syntax to manage and display security information of z/OS UNIX files and directories.
 
 15. [RACKILL](http://ibm.biz/racf-rackill): A utility deletes profiles from the RACF database that otherwise might not be deletable.  
 
